@@ -30,13 +30,13 @@ The official Patch bundle provided by ReVanced and the community.
 | `hide-autoplay-button` | Hides the autoplay button in the video player. | 17.45.36 |
 | `hide-captions-button` | Hides the captions button on video player. | 17.45.36 |
 | `hide-cast-button` | Hides the cast button in the video player. | all |
-| `hide-create-button` | Hides the create button in the navigation bar. | 17.45.36 |
+| `hide-create-button` | Hides the create button in the navigation bar. | all |
 | `hide-crowdfunding-box` | Hides the crowdfunding box between the player and video description. | 17.45.36 |
 | `hide-email-address` | Hides the email address in the account switcher. | 17.45.36 |
 | `hide-endscreen-cards` | Hides the suggested video cards at the end of a video in fullscreen. | 17.45.36 |
 | `hide-info-cards` | Hides info-cards in videos. | 17.45.36 |
 | `hide-my-mix` | Hides mix playlists. | 17.45.36 |
-| `hide-shorts-button` | Hides the shorts button on the navigation bar. | 17.45.36 |
+| `hide-shorts-button` | Hides the shorts button on the navigation bar. | all |
 | `hide-time-and-seekbar` | Hides progress bar and time counter on videos. | 17.45.36 |
 | `hide-video-buttons` | Adds options to hide action buttons under a video. | 17.45.36 |
 | `hide-watch-in-vr` | Hides the Watch in VR option in the player settings flyout panel. | 17.45.36 |
@@ -119,6 +119,16 @@ The official Patch bundle provided by ReVanced and the community.
 | `show-deleted-messages` | Shows deleted chat messages behind a clickable spoiler. | all |
 </details>
 
+### 📦 `com.vanced.android.youtube`
+<details>
+
+| 💊 Patch | 📜 Description | 🏹 Target Version |
+|:--------:|:--------------:|:-----------------:|
+| `client-spoof` | Spoofs the YouTube or Vanced client to prevent playback issues. | all |
+| `hide-create-button` | Hides the create button in the navigation bar. | all |
+| `hide-shorts-button` | Hides the shorts button on the navigation bar. | all |
+</details>
+
 ### 📦 `com.spotify.music`
 <details>
 
@@ -146,14 +156,6 @@ The official Patch bundle provided by ReVanced and the community.
 |:--------:|:--------------:|:-----------------:|
 | `general-reddit-ads` | Removes general ads from the Reddit frontpage and subreddits. | all |
 | `premium-icon-reddit` | Unlocks premium Reddit app icons. | all |
-</details>
-
-### 📦 `com.vanced.android.youtube`
-<details>
-
-| 💊 Patch | 📜 Description | 🏹 Target Version |
-|:--------:|:--------------:|:-----------------:|
-| `client-spoof` | Spoofs the YouTube or Vanced client to prevent playback issues. | all |
 </details>
 
 ### 📦 `com.myprog.hexedit`
